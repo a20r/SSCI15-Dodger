@@ -1,2 +1,4 @@
-# SSCI15-Dodger
-A paper to be submitted to SSCI15
+SSCI14-dCRoPS
+=============
+
+Materials for the SSCI submission about swarm path planning using probabilistic roadmaps and potential fields

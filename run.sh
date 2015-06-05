@@ -1,0 +1,4 @@
+pdflatex RiiS15Dodger
+bibtex RiiS15Dodger
+pdflatex RiiS15Dodger
+pdflatex RiiS15Dodger
